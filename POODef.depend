@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1679430749 source:c:\users\ander\códigosvisualstudiocode\poodef\aluno.cpp
+	"aluno.hpp"
+
+1679432676 c:\users\ander\códigosvisualstudiocode\poodef\aluno.hpp
+	<string>
+
+1679592564 source:c:\users\ander\códigosvisualstudiocode\poodef\main.cpp
+	<iostream>
+	<stdlib.h>
+	"aluno.hpp"
+	"professor.hpp"
+	"materia.hpp"
+	<vector>
+
+1678987648 c:\users\ander\códigosvisualstudiocode\poodef\professor.hpp
+	<string>
+
+1678987416 source:c:\users\ander\códigosvisualstudiocode\poodef\professor.cpp
+	"professor.hpp"
+
+1679432455 source:c:\users\ander\códigosvisualstudiocode\poodef\materia.cpp
+	"materia.hpp"
+	"professor.hpp"
+	<iostream>
+
+1679432297 c:\users\ander\códigosvisualstudiocode\poodef\materia.hpp
+	<string>
+	"professor.hpp"
+	"aluno.hpp"
+	<vector>
+
